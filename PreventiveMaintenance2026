@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body style="font-family: Arial, sans-serif; color: #333333; line-height: 1.6; background-color: #f4f4f4; padding: 20px; margin: 0;">
+
+<table width="100%" max-width="900" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff; margin: 0 auto; max-width: 900px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+  <tr>
+    <td style="padding: 40px;">
+
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-bottom: 2px solid #eeeeee; padding-bottom: 20px; margin-bottom: 30px;">
+        <tr>
+          <td align="left" valign="bottom">
+            <img src="https://www.propertywize.com/images/logo.png" alt="PropertyWize Logo" style="max-height: 70px; display: block;">
+          </td>
+          <td align="right" valign="bottom">
+            <h1 style="margin: 0; color: #134f5c; font-size: 24px; text-transform: uppercase;">Preventative Maintenance</h1>
+            <p style="margin: 0; font-style: italic; color: #666666;">Protecting Your Bottom Line</p>
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" cellpadding="30" cellspacing="0" border="0" style="background-color: #0b5394; color: #ffffff; border-radius: 5px; margin-bottom: 30px;">
+        <tr>
+          <td>
+            <h2 style="margin: 0 0 15px 0; color: #ffffff; font-size: 24px;">Stop Unexpected Costs Before They Happen.</h2>
+            <p style="font-size: 16px; margin-bottom: 15px;">Nothing destroys an owner's cash flow faster than a surprise $5,000 HVAC replacement in the dead of winter or a massive roof leak that destroys a tenant's ceiling. Emergency repairs are always more expensive than preventative care.</p>
+            <p style="font-size: 16px; margin-bottom: 10px;">We created the <strong>PropertyWize Preventative Maintenance Program</strong> to put you back in control of your expenses. By actively servicing your most critical assets, this program is structured to:</p>
+            <ul style="font-size: 16px; margin: 0; padding-left: 20px; font-weight: bold;">
+              <li style="margin-bottom: 5px;">Drastically reduce midnight emergency calls.</li>
+              <li style="margin-bottom: 5px;">Extend the usable lifespan of your expensive appliances and systems.</li>
+              <li style="margin-bottom: 0;">Ensure consistent, photographic documentation using trusted, approved vendors.</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+      <p style="font-size: 18px; color: #134f5c; font-weight: bold; border-bottom: 2px solid #eeeeee; padding-bottom: 10px; margin-bottom: 20px;">Choose Your Protection Plans</p>
+
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border: 2px solid #38761d; border-radius: 5px; margin-bottom: 25px;">
+        <tr>
+          <td style="background-color: #38761d; color: #ffffff; padding: 15px 20px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td width="40" valign="middle">
+                  <img src="https://img.icons8.com/ios-filled/50/ffffff/air-conditioner.png" width="30" height="30" alt="HVAC Icon" style="display: block;">
+                </td>
+                <td valign="middle">
+                  <h3 style="margin: 0; font-size: 20px; color: #ffffff;">1. HVAC Preventative Maintenance</h3>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 20px; background-color: #f4f9f1;">
+            <p style="margin: 0 0 15px 0; font-size: 16px;"><strong>Investment:</strong> <span style="font-size: 20px; color: #38761d; font-weight: bold;">$199 / year</span><br>
+            <span style="font-size: 13px; color: #555555;"><em>Approved Vendor: Brian (Anytime Services) | Includes 2 Visits Per Year</em></span></p>
+            
+            <table width="100%" cellpadding="5" cellspacing="0" border="0" style="font-size: 14px;">
+              <tr>
+                <td width="50%" valign="top">
+                  <p style="margin: 0 0 10px 0; color: #38761d; font-weight: bold;">Scope of Work (Spring & Fall Visits):</p>
+                  <p style="margin: 0;">&#10004; Replace standard HVAC filter<br>
+                  &#10004; Thermostat functionality check<br>
+                  &#10004; Inspect accessible electrical components<br>
+                  &#10004; Inspect blower motor (visual)<br>
+                  &#10004; Inspect refrigerant lines (visual)<br>
+                  &#10004; Inspect outdoor condenser unit<br>
+                  &#10004; Remove debris from condenser<br>
+                  &#10004; Flush condensate drain line (if accessible)<br>
+                  &#10004; Test system operation (heat/cool)</p>
+                </td>
+                <td width="50%" valign="top">
+                  <p style="margin: 0 0 10px 0; color: #0b5394; font-weight: bold;">Documentation Included:</p>
+                  <p style="margin: 0 0 15px 0;">&#10004; Service notes<br>
+                  &#10004; Deficiency notes<br>
+                  &#10004; Photos</p>
+                  
+                  <p style="margin: 0 0 10px 0; color: #e06666; font-weight: bold;">Exclusions (Not Included):</p>
+                  <p style="margin: 0;"><strong>X</strong> Refrigerant recharge/leak testing<br>
+                  <strong>X</strong> Repairs, parts, or replacements<br>
+                  <strong>X</strong> Electrical work / Emergency service</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border: 2px solid #0b5394; border-radius: 5px; margin-bottom: 25px;">
+        <tr>
+          <td style="background-color: #0b5394; color: #ffffff; padding: 15px 20px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td width="40" valign="middle">
+                  <img src="https://img.icons8.com/ios-filled/50/ffffff/roofing.png" width="30" height="30" alt="Roof Icon" style="display: block;">
+                </td>
+                <td valign="middle">
+                  <h3 style="margin: 0; font-size: 20px; color: #ffffff;">2. Roof & Gutter Inspection</h3>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 20px; background-color: #f0f4f8;">
+            <p style="margin: 0 0 15px 0; font-size: 16px;"><strong>Investment:</strong> <span style="font-size: 20px; color: #0b5394; font-weight: bold;">$199 - $300 / visit</span><br>
+            <span style="font-size: 13px; color: #555555;"><em>Approved Vendor: TnT Roofing or Bud | Quotes based on roof type & access</em></span></p>
+            
+            <table width="100%" cellpadding="5" cellspacing="0" border="0" style="font-size: 14px;">
+              <tr>
+                <td width="50%" valign="top">
+                  <p style="margin: 0 0 10px 0; color: #0b5394; font-weight: bold;">Scope of Work:</p>
+                  <p style="margin: 0 0 10px 0;"><strong>Gutter Cleaning:</strong><br>
+                  &#10004; Remove debris from front & rear gutters<br>
+                  &#10004; Clear accessible downspouts<br>
+                  &#10004; Basic water flow test (if hose available)</p>
+                  <p style="margin: 0;"><strong>Roof Inspection (Visual / Non-Invasive):</strong><br>
+                  &#10004; Inspect roof surface (shingles/flat)<br>
+                  &#10004; Inspect flashing, vents, and chimney<br>
+                  &#10004; Inspect roof penetrations<br>
+                  &#10004; Check for soft spots, ponding, deterioration<br>
+                  &#10004; Identify signs of leaks or potential failure</p>
+                </td>
+                <td width="50%" valign="top">
+                  <p style="margin: 0 0 10px 0; color: #0b5394; font-weight: bold;">Documentation Included:</p>
+                  <p style="margin: 0 0 15px 0;">&#10004; Photo report (8–12 photos)<br>
+                  &#10004; Written condition summary<br>
+                  &#10004; Recommendation (Serviceable, Repair Needed, or Replacement Likely)</p>
+                  
+                  <p style="margin: 0 0 10px 0; color: #e06666; font-weight: bold;">Exclusions (Not Included):</p>
+                  <p style="margin: 0;"><strong>X</strong> Repairs, sealing, or patchwork<br>
+                  <strong>X</strong> Structural work<br>
+                  <strong>X</strong> Steep roofs / 3+ story access (quoted separately)</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border: 2px solid #134f5c; border-radius: 5px; margin-bottom: 30px;">
+        <tr>
+          <td style="background-color: #134f5c; color: #ffffff; padding: 15px 20px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td width="40" valign="middle">
+                  <img src="https://img.icons8.com/ios-filled/50/ffffff/washing-machine.png" width="30" height="30" alt="Appliance Icon" style="display: block;">
+                </td>
+                <td valign="middle">
+                  <h3 style="margin: 0; font-size: 20px; color: #ffffff;">3. Appliance Preventative Maintenance</h3>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 20px; background-color: #f2f7f8;">
+            <p style="margin: 0 0 15px 0; font-size: 16px;"><strong>Investment:</strong> <span style="font-size: 20px; color: #134f5c; font-weight: bold;">$150 / visit</span><br>
+            <span style="font-size: 13px; color: #555555;"><em>Approved Vendor: NT Appliance</em></span></p>
+            
+            <table width="100%" cellpadding="5" cellspacing="0" border="0" style="font-size: 14px;">
+              <tr>
+                <td width="50%" valign="top">
+                  <p style="margin: 0 0 10px 0; color: #134f5c; font-weight: bold;">Scope of Work:</p>
+                  <p style="margin: 0 0 10px 0;"><strong>Kitchen & General:</strong><br>
+                  &#10004; Inspect refrigerator (cooling, seals, leaks)<br>
+                  &#10004; Inspect stove/oven functionality<br>
+                  &#10004; Inspect range hood/exhaust<br>
+                  &#10004; Check for visible wear or safety concerns<br>
+                  &#10004; Ensure operating within normal range</p>
+                  <p style="margin: 0;"><strong>Laundry (If Applicable):</strong><br>
+                  &#10004; Inspect washer hoses for leaks<br>
+                  &#10004; Inspect dryer operation<br>
+                  &#10004; Clean dryer vent connection (reachable only)</p>
+                </td>
+                <td width="50%" valign="top">
+                  <p style="margin: 0 0 10px 0; color: #0b5394; font-weight: bold;">Documentation Included:</p>
+                  <p style="margin: 0 0 15px 0;">&#10004; Condition notes per appliance<br>
+                  &#10004; Photos (if issues found)<br>
+                  &#10004; Recommendations for repair/replacement</p>
+                  
+                  <p style="margin: 0 0 10px 0; color: #e06666; font-weight: bold;">Exclusions (Not Included):</p>
+                  <p style="margin: 0;"><strong>X</strong> Appliance repairs or parts<br>
+                  <strong>X</strong> Internal component servicing<br>
+                  <strong>X</strong> Vent duct deep cleaning</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" cellpadding="20" cellspacing="0" border="0" style="background-color: #fff8e1; border-left: 5px solid #ffa000; margin-bottom: 30px;">
+        <tr>
+          <td>
+            <h4 style="margin: 0 0 10px 0; color: #d84315; font-size: 16px;">Important Program Notes</h4>
+            <ul style="margin: 0; padding-left: 20px; font-size: 14px; color: #333333;">
+              <li style="margin-bottom: 5px;">Pricing reflects typical Baltimore rowhomes. Final costs may vary slightly based on property size, accessibility, or condition.</li>
+              <li style="margin-bottom: 5px;">All services listed above are <strong>preventative and diagnostic only</strong>.</li>
+              <li style="margin-bottom: 0;">If an inspector discovers an issue, any recommended repairs or replacements will be quoted separately and will require <strong>your specific approval</strong> before moving forward.</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+      <table width="100%" cellpadding="25" cellspacing="0" border="0" style="border: 2px solid #eeeeee; border-radius: 5px; background-color: #fcfcfc; text-align: center;">
+        <tr>
+          <td>
+            <h3 style="margin: 0 0 10px 0; color: #134f5c; font-size: 20px;">Ready to protect your investments?</h3>
+            <p style="margin: 0 0 20px 0; font-size: 16px; color: #555555;">To enroll, please log into your Buildium Owner Portal and submit a <strong>Rental Owner Request</strong>. Be sure to include which <strong>Warranty Package(s)</strong> you would like to sign up for.</p>
+            
+            <table align="center" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td align="center" bgcolor="#0b5394" style="border-radius: 5px;">
+                  <a href="https://propertywize.managebuilding.com/manager/public/authentication/login?returnUrl=%2Fmanager%2Fapp%2Fhomepage%2Fdashboard" target="_blank" style="display: inline-block; padding: 14px 28px; font-family: Arial, sans-serif; font-size: 16px; color: #ffffff; text-decoration: none; font-weight: bold; border-radius: 5px;">Log In & Submit Request</a>
+                </td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
